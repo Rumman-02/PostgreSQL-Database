@@ -8,7 +8,7 @@
 - [Schema](#Schema)
 - [Optional](#Optional)
 
-## Database Initialization
+## A new Database
 
 Installation:
 
