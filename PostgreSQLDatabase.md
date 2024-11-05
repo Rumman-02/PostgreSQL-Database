@@ -82,9 +82,9 @@ Connection establishment with user
 coursedb=# \c coursedb developer;
 ```
 
-## Create a new Schema
+## Schema
 
-New Schema
+A New Schema
 
 ```postgresql
 coursedb=# \c CREATE SCHEMA testschema
